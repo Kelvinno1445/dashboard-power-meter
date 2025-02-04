@@ -1,1 +1,1 @@
-# dashboard-power-meter
+# Created by .ignore support plugin (hsz.mobi)
